@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
-- 💬 Ask me about **MERN Stack Development , Testing and building UI components.**
+- 💬 Ask me about **MERN Stack Development and building UI components.**
 
 - 📫 How to reach me **rohitgpatil16@gmail.com**
 
